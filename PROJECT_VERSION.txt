@@ -1,0 +1,4 @@
+Creative Library Android
+Version: 1.0
+Package: com.creativelibrary.app
+Source of truth: this project folder
